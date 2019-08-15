@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A CLI for accessing an amazon like back end",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dproc96/bamazon.git"
+  },
+  "author": "Dan Proctor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dproc96/bamazon/issues"
+  },
+  "homepage": "https://github.com/dproc96/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.5.1",
+    "mysql": "^2.17.1"
+  }
+}
